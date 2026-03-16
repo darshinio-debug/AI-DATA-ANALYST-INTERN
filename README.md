@@ -36,4 +36,4 @@ streamlit run app.py
 - Azure
 
 ## Configuration
-- Max upload size: 500MB (configured in .streamlit/config.toml)
+- Max upload size: 200MB (configured in .streamlit/config.toml)
