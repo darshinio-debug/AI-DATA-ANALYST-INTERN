@@ -25,8 +25,8 @@ streamlit run app.py
 
 ### Streamlit Community Cloud (Recommended)
 1. Push code to GitHub
-2. Go to ai-data-analyst-intern-fv8dziz7odhausvzxu5g9n
-.streamlit.app
+2. Go to [ai-data-analyst-intern-fv8dziz7odhausvzxu5g9n
+.streamlit.app](https://ai-data-analyst-intern-fv8dziz7odhausvzxu5g9n.streamlit.app/)
 3. Sign in with GitHub
 4. Deploy your app by selecting the repository
 
